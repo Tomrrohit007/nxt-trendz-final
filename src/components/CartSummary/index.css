@@ -1,0 +1,33 @@
+.order-total{
+    font-weight: 600;
+    color:  #616e7c;
+    font-size: 21px;
+
+}
+.checkout-cont{
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+.amount{
+    color: black;
+}
+.num-of-item{
+    font-size: 12px;
+    color: #616e7c;
+    font-weight: 500;
+}
+.checkout-btn{
+    background-color: #0b69ff;
+    color: white;
+    border: 0px;
+    font-size: 12px;
+    padding: 10px 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 210px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
